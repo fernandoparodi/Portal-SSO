@@ -1,3 +1,6 @@
-.class{
+h1{
     display: block;
+    color: blueviolet;
+    font-weight: bold;
+    font-family: fantasy;
 }
